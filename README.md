@@ -1,7 +1,7 @@
 # FounderMatch 🚀
 **Find your perfect co-founder in minutes.**
 FounderMatch is a "Tinder for Founders" application designed to solve the hardest part of building a startup: finding the right partner. We use AI to analyze compatibility, ensuring you match with someone who shares your vision, commitment, and drive.
-![FounderMatch Banner](public/banner.png) *<!-- Add a banner image here if you have one -->*
+
 ## 💡 Inspiration
 Finding a co-founder is like dating, but with higher stakes. Most startups fail due to founder conflict, not product failure. We built FounderMatch to create a dedicated space where founders can connect openly, skipping the awkward networking events and cold DMs.
 ## ✨ Features
